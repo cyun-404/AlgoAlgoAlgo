@@ -55,6 +55,7 @@ long long solution(long long n) {
     return answer;
 }
 
+
 //자연수 뒤집어 배열로 만들기
 #include <string>
 #include <vector>
